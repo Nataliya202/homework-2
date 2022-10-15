@@ -80,6 +80,7 @@ body{
 
 /* Пропозиції */
 .propositions-title{
+    color: var(--primary-white-color);
     background-color: #2F303A;
     font-weight: 900;
     font-size: 44px;
